@@ -1,13 +1,10 @@
-<img width="500px" height="300px" align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laihaojie&count_private=true&show_icons=true&layout=compact"/>
+<img width="500px" align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laihaojie&count_private=true&show_icons=true&layout=compact"/>
 
 
 <div align="center">
-<p>
 <strong>Hi, I am laihaojie 🥰</strong>
 
 <strong>I'm Front-end development from China. </strong>
-</p>
-
 </div> 
 
 ### 🛠 &nbsp;Tech Stack
