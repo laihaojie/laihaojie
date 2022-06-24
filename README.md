@@ -5,6 +5,8 @@
 <strong>Hi, I am laihaojie 🥰</strong>
 
 <strong>I'm Front-end development from China. </strong>
+  
+<strong>Email: 17608421492@163.com 🤝🏻 </strong>
 </div> 
 
 ### 🛠 &nbsp;Tech Stack
@@ -16,8 +18,6 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
 
-### 🤝🏻 &nbsp;Connect with Me
-<a href="17608421492@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-17608421492@163.com-blue?style=flat-square&logo=gmail"></a>
 
 ### ⭐️ &nbsp;Github Star
 
