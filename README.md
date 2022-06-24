@@ -1,3 +1,6 @@
+<img width="500px" height="300px" align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laihaojie&count_private=true&show_icons=true&layout=compact"/>
+
+
 <div align="center">
 <p>
 <strong>Hi, I am laihaojie 🥰</strong>
@@ -17,14 +20,8 @@
 ![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="mailto:648941183@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-648941183@qq.com-blue?style=flat-square&logo=gmail"></a>
-
+<a href="17608421492@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-17608421492@163.com-blue?style=flat-square&logo=gmail"></a>
 
 ### ⭐️ &nbsp;Github Star
 
-
-<p align="center">
-<img width="500px" height="300px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laihaojie&count_private=true&show_icons=true&hide=issues,prs"/>
-      
-<img width="500px" height="300px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laihaojie&count_private=true&show_icons=true&layout=compact"/>
- </p>
+<img width="500px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laihaojie&count_private=true&show_icons=true&hide=issues,prs"/>
