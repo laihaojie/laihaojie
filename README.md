@@ -4,7 +4,7 @@
 <div align="center">
 <strong>Hi, I am laihaojie 🥰</strong>
 
-<strong>I'm Front-end development from China. </strong>
+<strong>I'm a Front-end development from China. </strong>
   
 <strong>Email: 17608421492@163.com 🤝🏻 </strong>
 </div> 
