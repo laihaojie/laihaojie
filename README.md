@@ -21,4 +21,8 @@
 
 ### ⭐️ &nbsp;Github Star
 
-<img width="500px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laihaojie&count_private=true&show_icons=true&hide=issues,prs"/>
+<img width="500px" align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laihaojie&count_private=true&show_icons=true&hide=issues,prs"/>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/laihaojie/count.svg" />
+</p>
